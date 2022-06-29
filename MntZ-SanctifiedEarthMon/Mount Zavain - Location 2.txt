@@ -1,0 +1,15 @@
+// Click on the map
+Delay(250);
+PushRightButton(1360,288);
+Delay(100);
+PullRightButton(0,0);
+
+
+// Click "Navigate"
+Delay(250);
+PushLeftButton(1337,184);
+Delay(100);
+PullLeftButton(0,0);
+
+
+ENDIF;
